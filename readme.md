@@ -1,6 +1,6 @@
-## Hayyoooo everyone welcome to my git guide
+## Welcom Git!
 
-- Yo jonney here
+- this is comming from dev-chamith
 
  - i am adding this from 'feature-branch'
 
